@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:800|Merriweather+Sans|Share+Tech+Mono");
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+.LoginCard {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 100%;
+  width: 100%;
+  padding: 50px 0;
+  background: #FFFFFF;
+  font-family: "Merriweather Sans", sans-serif;
+  font-size: 22px;
+  color: #A1A1A1;
+  -webkit-box-shadow: 0px -2px 15px rgba(50, 50, 50, 0.45);
+          box-shadow: 0px -2px 15px rgba(50, 50, 50, 0.45);
+}
+.LoginCard .cardTitle {
+  font-size: 20px;
+  font-weight: 900;
+  font-family: "Merriweather Sans", sans-serif;
+  color: #A1A1A1;
+}
+/*# sourceMappingURL=WebCard.css.map */
